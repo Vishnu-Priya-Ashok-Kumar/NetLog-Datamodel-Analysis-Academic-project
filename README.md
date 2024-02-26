@@ -40,7 +40,7 @@ The project involved the creation of several deliverables and workflows, includi
 
 ## Data Sheet Download
 
-You can download the datasheet used in this analysis from [here](link/to/datasheet).
+You can download the datasheet used in this analysis from [Download here](link/to/datasheet).
 
 ## Project Management
 
