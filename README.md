@@ -8,7 +8,7 @@ This repository contains the documentation and workflow details for the NetLog D
 2. [Deliverables and Workflows](#deliverables-and-workflows)
 3. [Data Sheet Download](#data-sheet-download)
 4. [Project Management](#project-management)
-5. [Results/Findings](#Results/Findings)
+5. [Conclusion](#Conclusion)
 6. [Contributors](#contributors)
 7. [Acknowledgments](#acknowledgments)
 
@@ -53,25 +53,9 @@ The project involved the creation of several deliverables and workflows, includi
 
 The project was managed meticulously, with detailed documentation, tracking, and version control to ensure transparency and accountability throughout the process.
 
-## Results/Findings
+## Conclusion
 
-It seems like you're asking for the results of the data analysis project described in the README. The results of a data analysis project can vary significantly based on the specific objectives, data, and analyses performed. However, I can provide some general examples of what the results might include:
-
-1. **NetLog Datamodel**: The finalized NetLog Datamodel, including sorted LogDate and LogTime, and new columns like RecordTypeName, PrevLogDate, PrevLogTime, PrevLogRecordType, and PrevDetailsData.
-
-2. **Data Analysis Findings**: Insights and discoveries derived from the analysis, such as trends, patterns, anomalies, correlations, and relationships within the data.
-
-3. **Visualization Outputs**: Charts, graphs, and visualizations created to illustrate key findings and make complex data more understandable.
-
-4. **Workflow Documentation**: Detailed documentation of the workflows followed during the analysis, including steps taken, tools used, and any challenges encountered.
-
-5. **Deliverables**: Completed deliverables such as practical sheets, workflow documentation, survey results, and any other artifacts produced as part of the project.
-
-6. **Recommendations**: Recommendations or actions based on the analysis findings, which may include suggestions for process improvements, further data collection, or decision-making.
-
-7. **Summary and Conclusions**: A summary of the analysis results, key takeaways, and conclusions drawn from the project, highlighting its significance and implications.
-
-These are just some examples of the possible results of a data analysis project. The specific results will depend on the goals, scope, and nature of the project. If you have specific questions about the analysis or want more detailed information, please feel free to ask!
+The NetLog Datamodel project involved sorting LogDate and LogTime, adding new columns, and using VLOOKUP formulas to enhance data coherence and depth. Key steps included handling #N/A values, categorizing devices, extracting text, and creating pivot tables. Deliverables included workflow documentation and various analyses. Results yielded a finalized Datamodel, insights into data trends, and actionable recommendations for further data exploration and process improvements.
 
 ## Contributors
 
