@@ -47,9 +47,6 @@ The project involved the creation of several deliverables and workflows, includi
 - Workflow documentation for various tasks such as filtering records, creating pivot tables, and calculating time differences
 - Documenting and tracking progress for each task
 
-## Data Sheet Download
-
-You can download the datasheet used in this analysis from [Download here](NetLog Datamodel.xlsx).
 
 ## Project Management
 
