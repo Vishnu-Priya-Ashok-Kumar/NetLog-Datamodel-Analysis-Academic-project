@@ -2,6 +2,15 @@
 
 This repository contains the documentation and workflow details for the NetLog Datamodel analysis project. The provided dataset underwent extensive analysis to develop the NetLog Datamodel, incorporating sorting, adding new columns, utilizing VLOOKUP formulas, and various data manipulation techniques. 
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Deliverables and Workflows](#deliverables-and-workflows)
+3. [Data Sheet Download](#data-sheet-download)
+4. [Project Management](#project-management)
+5. [Contributors](#contributors)
+6. [Acknowledgments](#acknowledgments)
+
 ## Project Overview
 
 The primary objectives and tasks completed in this project are as follows:
