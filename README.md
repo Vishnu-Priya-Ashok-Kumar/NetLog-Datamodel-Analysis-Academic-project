@@ -49,7 +49,7 @@ The project involved the creation of several deliverables and workflows, includi
 
 ## Data Sheet Download
 
-You can download the datasheet used in this analysis from [Download here](NetLog-Datamodel.xlsx).
+You can download the datasheet used in this analysis from [Download here](NetLog Datamodel.xlsx).
 
 ## Project Management
 
