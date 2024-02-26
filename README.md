@@ -21,6 +21,7 @@ The primary objectives and tasks completed in this project are as follows:
 - **Addition of New Columns**: Several new columns, including RecordTypeName, PrevLogDate, PrevLogTime, PrevLogRecordType, and PrevDetailsData, were added to enrich the Datamodel.
 
 - **Data Retrieval with VLOOKUP**: VLOOKUP formulas were utilized to retrieve data for the added columns, enhancing the dataset's informational depth.
+--- =VLOOKUP(F11,'Record Types'!$Q$7:$R$20,2,FALSE)
 
 - **Handling #N/A Values**: To address issues with #N/A values, adjustments were made, including increasing the height/search range to 162, and special measures were taken to lock in VLOOKUP formulas through copy and paste special values.
 
