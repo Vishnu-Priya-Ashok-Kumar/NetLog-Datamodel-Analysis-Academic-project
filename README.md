@@ -54,4 +54,4 @@ The project was managed meticulously, with detailed documentation, tracking, and
 
 ## Acknowledgments
 
-Special thanks to [Group NO 8] for their support and guidance throughout this project.
+Special thanks to [Team No 8] for their support and guidance throughout this project.
