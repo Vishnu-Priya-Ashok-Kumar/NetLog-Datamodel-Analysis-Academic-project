@@ -64,7 +64,7 @@ The NetLog Datamodel project involved sorting LogDate and LogTime, adding new co
 ## Contributors
 
 1.Vishnu Priya Ashok Kumar
-2.Adewale Dolapo
+2.Adedolapo Adewale
 3.Shivangi Koltharkar
 
 ## Acknowledgments
