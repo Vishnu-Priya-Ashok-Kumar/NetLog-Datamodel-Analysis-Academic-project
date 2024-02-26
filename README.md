@@ -6,11 +6,10 @@ This repository contains the documentation and workflow details for the NetLog D
 
 1. [Project Overview](#project-overview)
 2. [Deliverables and Workflows](#deliverables-and-workflows)
-3. [Data Sheet Download](#data-sheet-download)
-4. [Project Management](#project-management)
-5. [Conclusion](#Conclusion)
-6. [Contributors](#contributors)
-7. [Acknowledgments](#acknowledgments)
+3. [Project Management](#project-management)
+4. [Conclusion](#Conclusion)
+5. [Contributors](#contributors)
+6. [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
@@ -21,7 +20,10 @@ The primary objectives and tasks completed in this project are as follows:
 - **Addition of New Columns**: Several new columns, including RecordTypeName, PrevLogDate, PrevLogTime, PrevLogRecordType, and PrevDetailsData, were added to enrich the Datamodel.
 
 - **Data Retrieval with VLOOKUP**: VLOOKUP formulas were utilized to retrieve data for the added columns, enhancing the dataset's informational depth.
---- =VLOOKUP(F11,'Record Types'!$Q$7:$R$20,2,FALSE)
+  Here VLOOKUP Formula used is
+  
+```=VLOOKUP(F11,'Record Types'!$Q$7:$R$20,2,FALSE)```
+
 
 - **Handling #N/A Values**: To address issues with #N/A values, adjustments were made, including increasing the height/search range to 162, and special measures were taken to lock in VLOOKUP formulas through copy and paste special values.
 
