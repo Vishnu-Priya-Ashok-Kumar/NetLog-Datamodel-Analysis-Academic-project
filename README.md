@@ -23,7 +23,7 @@ The primary objectives and tasks completed in this project are as follows:
 
     Here VLOOKUP Formula used is
   
- --     ```=VLOOKUP(F11,'Record Types'!$Q$7:$R$20,2,FALSE)```
+      ```=VLOOKUP(F11,'Record Types'!$Q$7:$R$20,2,FALSE)```
 
 
 - **Handling #N/A Values**: To address issues with #N/A values, adjustments were made, including increasing the height/search range to 162, and special measures were taken to lock in VLOOKUP formulas through copy and paste special values.
